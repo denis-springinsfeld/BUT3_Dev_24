@@ -139,4 +139,4 @@ export default function Button = ({ variant = "primary", size = "medium", classN
 
 - Reproduire la modale (video1). Rendre les couleurs, les textes, les icones aléatoires.
 
-- Réaliser un système de Toast (video2).
+- Réaliser un système de Toast Notifications (video2).
