@@ -207,7 +207,7 @@ npm i class-variance-authority
 import { cva } from "class-variance-authority";
 const base = "mes classes de base";
 
-const button = cva(base, {
+const buttonVariants = cva(base, {
   variants: {
     intent: {
       primary: "",
@@ -239,7 +239,10 @@ export default function ButtonCVA({
   ...props
 }) {
   return (
-    <button className={button({ intent, size, rounde, className })} {...props}>
+    <button
+      className={buttonVariants({ intent, size, rounde, className })}
+      {...props}
+    >
       {children}
     </button>
   );
