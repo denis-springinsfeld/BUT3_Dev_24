@@ -6,4 +6,5 @@ TailwindCss V4 Beta [link](https://tailwindcss.com/docs/v4-beta)
 
 Motion [link](https://motion.dev)
 
-Travail à finaliser pour la fin du semestre - déposer votre travail sur un repo Github : [main] et déployer votre réalisation sur GitHub Page.
+Travail à finaliser pour la fin du semestre sur un repo Github : [main] et déployer votre réalisation sur GitHub Page.
+
