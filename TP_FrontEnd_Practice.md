@@ -27,5 +27,5 @@ Sur le modèle du site [front end practice](https://www.frontendpractice.com/) q
 
 
 ## Rendu
-Travail à finaliser pour la fin du semestre sur un repo Github : [main] et déployer votre réalisation sur GitHub Page.
+Travail à finaliser pour la fin du semestre sur un repo Github : [main] - déployer votre réalisation sur GitHub Page.
 
